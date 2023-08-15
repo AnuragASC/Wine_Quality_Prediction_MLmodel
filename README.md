@@ -28,19 +28,19 @@ To run and experiment with the Wine Quality Prediction ML Model, follow these st
 
 1) Clone the repository:
 
-   git clone https://github.com/your-username/wine-quality-prediction.git
+   "git clone https://github.com/your-username/wine-quality-prediction.git"
 
 2) Navigate to the project directory:
 
-   cd wine-quality-prediction
+   "cd wine-quality-prediction"
 
 3) Install the required dependencies. You can create a virtual environment to manage dependencies:
 
-   pip install -r requirements.txt
+   "pip install -r requirements.txt"
 
 4) Run the wine_quality_prediction.py script:
 
-   python wine_quality_prediction.py
+   "python wine_quality_prediction.py"
 
 5) The script will train the model on the synthetic data, make predictions, and display the calculated MSE and R-squared score.
 
@@ -55,7 +55,7 @@ The following dependencies are required to run the Wine Quality Prediction ML Mo
 
 You can install the required packages using the following command:
 
-pip install -r requirements.txt
+"pip install -r requirements.txt"
 
 # Contribution
 
